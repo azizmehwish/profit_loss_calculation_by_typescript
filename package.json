@@ -1,0 +1,17 @@
+{
+  "name": "profit_calculated_mehwish",
+  "version": "1.0.0",
+  "description": "you inter ivestment calculate your profit",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mehwish",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.14.10"
+  }
+}
